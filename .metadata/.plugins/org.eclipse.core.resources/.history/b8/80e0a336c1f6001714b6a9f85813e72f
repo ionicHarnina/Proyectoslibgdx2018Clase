@@ -13,7 +13,7 @@ public class MyGameRegion extends ApplicationAdapter {
 	int altoPantalla,anchoPantalla,anchoImagen,altoImagen;
 	//usando una region
 	TextureRegion region;
-	int incX=1;
+	int incX=0;
 	
 	
 	@Override
@@ -35,6 +35,7 @@ public class MyGameRegion extends ApplicationAdapter {
 		batch.begin();
 		region.setRegion(region.getRegionX()+incX, region.getRegionY(),region.getRegionWidth(),region.getRegionHeight());
 		batch.draw(region,0,0);
+		
 		batch.end();
 	}
 

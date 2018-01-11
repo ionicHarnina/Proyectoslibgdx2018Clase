@@ -13,8 +13,6 @@ public class MyGameRegion extends ApplicationAdapter {
 	int altoPantalla,anchoPantalla,anchoImagen,altoImagen;
 	//usando una region
 	TextureRegion region;
-	int incX=1;
-	
 	
 	@Override
 	public void create() {
@@ -33,7 +31,6 @@ public class MyGameRegion extends ApplicationAdapter {
 		Gdx.gl.glClearColor(1, 0, 0, 1);
 		Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
 		batch.begin();
-		region.setRegion(region.getRegionX()+incX, region.getRegionY(),region.getRegionWidth(),region.getRegionHeight());
 		batch.draw(region,0,0);
 		batch.end();
 	}

@@ -13,7 +13,7 @@ public class MyGameRegion extends ApplicationAdapter {
 	int altoPantalla,anchoPantalla,anchoImagen,altoImagen;
 	//usando una region
 	TextureRegion region;
-	int incX=1;
+	int incX=0;
 	
 	
 	@Override
