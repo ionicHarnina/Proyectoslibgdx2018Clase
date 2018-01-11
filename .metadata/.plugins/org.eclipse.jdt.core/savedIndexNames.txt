@@ -1,0 +1,7 @@
+INDEX VERSION 1.130+C:\Proyectoslibgdx2018Clase\.metadata\.plugins\org.eclipse.jdt.core
+998880831.index
+4056381295.index
+1041916095.index
+1780139238.index
+1550358622.index
+2689861046.index
