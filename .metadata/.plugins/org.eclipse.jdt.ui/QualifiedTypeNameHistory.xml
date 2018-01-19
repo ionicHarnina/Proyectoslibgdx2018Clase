@@ -7,10 +7,20 @@
 <fullyQualifiedTypeName name="com.adorno.MyOtherInputProcessor"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.InputMultiplexer"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.Gdx"/>
-<fullyQualifiedTypeName name="com.badlogic.gdx.utils.Disposable"/>
 <fullyQualifiedTypeName name="com.adorno.MyImage"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.Input"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.TextureAtlas"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.Animation"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.TextureRegion"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Preferences"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.files.FileHandle"/>
+<fullyQualifiedTypeName name="java.io.ByteArrayOutputStream"/>
+<fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+<fullyQualifiedTypeName name="com.adorno.MyGdxGame2"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.Actor"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.utils.Disposable"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.Texture"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.Stage"/>
+<fullyQualifiedTypeName name="com.mygdx.game.MyGdxGame"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.math.Vector2"/>
 </qualifiedTypeNameHistroy>

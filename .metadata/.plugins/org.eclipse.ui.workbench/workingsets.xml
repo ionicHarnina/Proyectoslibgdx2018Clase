@@ -18,6 +18,8 @@
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1516272406152_2" label="ParteDos" name="ParteDos">
 <item elementID="=doce-desktop" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=doce-core" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=diez-core" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=diez-desktop" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1515658930073_0" label="Window Working Set" name="Aggregate for window 1515658930073"/>
 <mruList name="ParteDos"/>
