@@ -12,7 +12,6 @@ INDEX VERSION 1.130+C:\Proyectoslibgdx2018Clase\.metadata\.plugins\org.eclipse.j
 2538676763.index
 3642299768.index
 1345005719.index
-3282376923.index
 1780139238.index
 2934416750.index
 3266276240.index
