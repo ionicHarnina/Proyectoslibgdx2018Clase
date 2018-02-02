@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.GL20"/>
-<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.OrthographicCamera"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.Input.Keys"/>
 <fullyQualifiedTypeName name="com.adorno.MyInputProcessor"/>
 <fullyQualifiedTypeName name="com.adorno.MyOtherInputProcessor"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.InputMultiplexer"/>
 <fullyQualifiedTypeName name="com.adorno.MyImage"/>
-<fullyQualifiedTypeName name="com.badlogic.gdx.Input"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.TextureAtlas"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.Animation"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.TextureRegion"/>
@@ -17,21 +14,38 @@
 <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
 <fullyQualifiedTypeName name="com.adorno.MyGdxGame2"/>
 <fullyQualifiedTypeName name="com.mygdx.game.MyGdxGame"/>
-<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.Actor"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.math.Rectangle"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.math.Polygon"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.math.Circle"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.graphics.Texture"/>
-<fullyQualifiedTypeName name="com.badlogic.gdx.math.Vector2"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.Gdx"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="java.util.Iterator"/>
 <fullyQualifiedTypeName name="com.mygdx.game.ActorBola"/>
 <fullyQualifiedTypeName name="org.omg.CORBA.PRIVATE_MEMBER"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.ui.Image"/>
 <fullyQualifiedTypeName name="org.omg.CORBA.PUBLIC_MEMBER"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.Stage"/>
 <fullyQualifiedTypeName name="version3.ActorList"/>
-<fullyQualifiedTypeName name="com.badlogic.gdx.utils.Disposable"/>
 <fullyQualifiedTypeName name="version3.ActorBola3"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.OrthographicCamera"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.input.GestureDetector.GestureListener"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.input.GestureDetector"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.Actor"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.actions.Actions"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="a02ccionescomplejas.BalanceAction"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.utils.Disposable"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.Action"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.utils.Pool"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.ApplicationAdapter"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.InputProcessor"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.World"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.math.Vector2"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.BodyDef"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.PolygonShape"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.FixtureDef"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.Shape"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.GL20"/>
+<fullyQualifiedTypeName name="com.mygdx.game.CollisionUno"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Input"/>
 </qualifiedTypeNameHistroy>
