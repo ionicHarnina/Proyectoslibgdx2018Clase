@@ -38,14 +38,18 @@
 <fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.Action"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.utils.Pool"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.ApplicationAdapter"/>
-<fullyQualifiedTypeName name="com.badlogic.gdx.InputProcessor"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.World"/>
-<fullyQualifiedTypeName name="com.badlogic.gdx.math.Vector2"/>
-<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.BodyDef"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.PolygonShape"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.FixtureDef"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.Shape"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.graphics.GL20"/>
 <fullyQualifiedTypeName name="com.mygdx.game.CollisionUno"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.Input"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.BitmapFont"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.math.Vector2"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.BodyDef"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.EdgeShape"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.InputProcessor"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.Color"/>
+<fullyQualifiedTypeName name="com.mygdx.game.FisicasDos"/>
 </qualifiedTypeNameHistroy>

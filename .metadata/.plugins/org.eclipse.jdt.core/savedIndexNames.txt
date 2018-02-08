@@ -15,15 +15,14 @@ INDEX VERSION 1.130+C:\Proyectoslibgdx2018Clase\.metadata\.plugins\org.eclipse.j
 165954634.index
 1139086610.index
 4239514753.index
-2538676763.index
 1030148057.index
+2538676763.index
 3642299768.index
 195658352.index
 1345005719.index
 1055679481.index
 2589955883.index
 148273183.index
-3282376923.index
 3889994576.index
 2657924334.index
 1860642593.index
@@ -36,10 +35,10 @@ INDEX VERSION 1.130+C:\Proyectoslibgdx2018Clase\.metadata\.plugins\org.eclipse.j
 3637040476.index
 2956378016.index
 50310545.index
-1574853955.index
 65057341.index
-315890579.index
+1574853955.index
 2925931332.index
+315890579.index
 3470464421.index
 421022922.index
 2384894347.index
@@ -60,6 +59,7 @@ INDEX VERSION 1.130+C:\Proyectoslibgdx2018Clase\.metadata\.plugins\org.eclipse.j
 4052195520.index
 353105726.index
 2429332019.index
+2311548888.index
 2548468539.index
 24277790.index
 928874916.index
