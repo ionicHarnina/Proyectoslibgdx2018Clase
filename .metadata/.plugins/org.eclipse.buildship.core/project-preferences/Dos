@@ -1,9 +1,10 @@
 #
-#Fri Feb 02 14:00:13 CET 2018
+#Thu Feb 08 13:31:48 CET 2018
 linkedResources=
 managedNatures=
 classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n</classpath>\n
 subprojectPaths=android;core;desktop
 derivedResources=.gradle;build;android/build;core/build;desktop/build
+buildScriptPath=build.gradle
 managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands/>
 buildDir=build

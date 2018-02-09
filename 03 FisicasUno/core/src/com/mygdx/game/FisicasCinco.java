@@ -91,8 +91,8 @@ public class FisicasCinco extends ApplicationAdapter {
 
 		body.createFixture(fixtureDef);
 		body2.createFixture(fixtureDef2);
-//		fixtureDef2.filter.categoryBits = PHYSICS_ENTITY;
-//		fixtureDef2.filter.maskBits = WORLD_ENTITY;
+		fixtureDef2.filter.categoryBits = PHYSICS_ENTITY;
+		fixtureDef2.filter.maskBits = WORLD_ENTITY;
 
 		body.setUserData("JuanLuis");
 		body2.setUserData("Fuencisla");

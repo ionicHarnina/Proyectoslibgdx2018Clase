@@ -1,9 +1,10 @@
 #
-#Fri Feb 02 14:00:13 CET 2018
+#Thu Feb 08 13:31:48 CET 2018
 linkedResources=
 managedNatures=org.eclipse.jdt.core.javanature
 classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n<classpathentry kind\="src" path\="/Dos-core"/>\r\n<classpathentry kind\="lib" path\="C\:/Users/jose/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.8/84024cd60ad6f26370891fbcd17de9f0167e662/gdx-backend-android-1.9.8.jar" sourcepath\="C\:/Users/jose/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.8/fa6c464c1a911ce39f252cb2b86e9d05eecb6a1d/gdx-backend-android-1.9.8-sources.jar"/>\r\n<classpathentry kind\="lib" path\="C\:/Users/jose/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.8/a35a0076fbce873f9c2d5a1a1c8066244231bb3c/gdx-1.9.8.jar" sourcepath\="C\:/Users/jose/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.8/bac17f395be5010619b31280fe84e9f53118d0b9/gdx-1.9.8-sources.jar"/>\r\n</classpath>\n
 subprojectPaths=
 derivedResources=.gradle;build
+buildScriptPath=build.gradle
 managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands><command name\="com.android.ide.eclipse.adt.ResourceManagerBuilder"/><command name\="com.android.ide.eclipse.adt.PreCompilerBuilder"/><command name\="com.android.ide.eclipse.adt.ApkBuilder"/></commands>
 buildDir=build
