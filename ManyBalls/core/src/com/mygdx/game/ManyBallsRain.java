@@ -21,7 +21,7 @@ public class ManyBallsRain extends ApplicationAdapter implements InputProcessor 
 	
 	private static final int NUMBER_OF_BALLS = 15000;
 	private static final float GRAVEDAD_Y = -9f;
-	public static final int FactorZoomCamara = 3;
+	public static final int FactorZoomCamara = 4;
 	SpriteBatch batch;
 	World world;
 	// 100 pixeles son un metro
@@ -37,6 +37,7 @@ public class ManyBallsRain extends ApplicationAdapter implements InputProcessor 
 	Ground ground;
 	ArrayList<Ground> grounds = new ArrayList<Ground>();
 	Texture texture;
+	BallCristal ejemplo;
 
 	@Override
 	public void create() {
@@ -50,7 +51,7 @@ public class ManyBallsRain extends ApplicationAdapter implements InputProcessor 
 		texture = new Texture(Gdx.files.internal("agua.png"));
 		balls = new ArrayList<BallCristal>();
 
-		balls.add(new BallCristal(world, texture));
+		ejemplo=new BallCristal(world, texture);
 
 		Gdx.input.setInputProcessor(this);
 		ground = new Ground(world, 0, -500, 300, 20);
@@ -64,7 +65,12 @@ public class ManyBallsRain extends ApplicationAdapter implements InputProcessor 
 		if (balls.size() < NUMBER_OF_BALLS && timeElapsed > timeLapse) {
 			timeElapsed = 0;
 			for (int i = 0; i < 30; i++) {
-				balls.add(new BallCristal(world, texture));
+				try {
+					BallCristal nueva=(BallCristal) ejemplo.clone();
+					balls.add(nueva);
+				} catch (CloneNotSupportedException e) {
+					e.printStackTrace();
+				}
 			}
 		}
 		world.step(1f / 60f, 6, 2);

@@ -19,9 +19,17 @@ public class BallCristal implements Cloneable {
 	boolean dead = false;
 	//con groups
 	final short GROUP_BALL = -1;
+	World world;
 
 	public BallCristal(World world,Texture agua) {
+		this.world=world;
+		
 		sprite = new Sprite(agua);
+		body=createBody();
+	}
+
+	private Body createBody() {
+		Body body;
 		if (aleatoria)
 			sprite.setPosition(-Utiles.getEnteroIntervalo(Gdx.graphics.getWidth() / 20),
 					Utiles.getEnteroIntervalo(Gdx.graphics.getHeight() / 2));
@@ -51,6 +59,7 @@ public class BallCristal implements Cloneable {
 		body.setFixedRotation(false);
 		body.setUserData("agua");
 //		body.setActive(false);
+		return body;
 	}
 
 	public boolean isAleatoria() {
@@ -85,7 +94,10 @@ public class BallCristal implements Cloneable {
 
 	@Override
 	protected Object clone() throws CloneNotSupportedException {
-		// TODO Auto-generated method stub
-		return super.clone();
+		BallCristal nueva=(BallCristal) super.clone();
+		nueva.body=createBody();
+		nueva.body.setTransform(100, 100, nueva.body.getAngle());
+		nueva.sprite=new Sprite(sprite.getTexture());
+		return nueva;
 	}
 }
