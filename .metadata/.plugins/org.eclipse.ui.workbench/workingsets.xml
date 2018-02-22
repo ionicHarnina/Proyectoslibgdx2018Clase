@@ -47,8 +47,14 @@
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1519287233721_4" label="Template" name="Template">
 <item elementID="=Estructura-core" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Estructura-desktop" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=BoredCat-core" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=BoredCat-desktop" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1515658930073_0" label="Window Working Set" name="Aggregate for window 1515658930073"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1519298306547_6" label="Multiple Working Sets" name="Aggregate:ParteTres:Template:">
+<workingSet IMemento.internal.id="ParteTres"/>
+<workingSet IMemento.internal.id="Template"/>
+</workingSet>
 <mruList name="Template"/>
 <mruList name="ParteTres"/>
 <mruList name="ParteDos"/>
