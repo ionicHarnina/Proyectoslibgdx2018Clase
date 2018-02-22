@@ -44,7 +44,12 @@
 <item elementID="=Escenario-ios" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=ManyBalls-core" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1519287233721_4" label="Template" name="Template">
+<item elementID="=Estructura-core" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Estructura-desktop" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1515658930073_0" label="Window Working Set" name="Aggregate for window 1515658930073"/>
+<mruList name="Template"/>
 <mruList name="ParteTres"/>
 <mruList name="ParteDos"/>
 <mruList name="ParteUno"/>

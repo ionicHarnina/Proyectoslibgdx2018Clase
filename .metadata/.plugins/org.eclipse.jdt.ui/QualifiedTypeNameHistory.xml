@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.TextureRegion"/>
-<fullyQualifiedTypeName name="com.badlogic.gdx.Preferences"/>
-<fullyQualifiedTypeName name="com.badlogic.gdx.files.FileHandle"/>
-<fullyQualifiedTypeName name="java.io.ByteArrayOutputStream"/>
-<fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
-<fullyQualifiedTypeName name="com.adorno.MyGdxGame2"/>
-<fullyQualifiedTypeName name="com.mygdx.game.MyGdxGame"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.math.Rectangle"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.math.Polygon"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.math.Circle"/>
-<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.Texture"/>
-<fullyQualifiedTypeName name="com.badlogic.gdx.Gdx"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="com.mygdx.game.ActorBola"/>
 <fullyQualifiedTypeName name="org.omg.CORBA.PRIVATE_MEMBER"/>
@@ -31,22 +22,17 @@
 <fullyQualifiedTypeName name="com.badlogic.gdx.utils.Pool"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.World"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.PolygonShape"/>
-<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.FixtureDef"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.Shape"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.graphics.GL20"/>
 <fullyQualifiedTypeName name="com.mygdx.game.CollisionUno"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.BitmapFont"/>
-<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.BodyDef"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.EdgeShape"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.graphics.Color"/>
 <fullyQualifiedTypeName name="com.mygdx.game.FisicasDos"/>
 <fullyQualifiedTypeName name="com.mygdx.game.FisicasTres"/>
 <fullyQualifiedTypeName name="com.mygdx.game.FisicasCuatro"/>
-<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.Body"/>
-<fullyQualifiedTypeName name="com.badlogic.gdx.math.Vector2"/>
 <fullyQualifiedTypeName name="com.mygdx.game.FisicasCinco"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.ContactListener"/>
-<fullyQualifiedTypeName name="com.badlogic.gdx.utils.viewport.ScreenViewport"/>
 <fullyQualifiedTypeName name="filtro.ManyBallsFilter"/>
 <fullyQualifiedTypeName name="Rectangulo"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
@@ -60,4 +46,18 @@
 <fullyQualifiedTypeName name="java.util.Iterator"/>
 <fullyQualifiedTypeName name="com.badlogic.gdx.Input"/>
 <fullyQualifiedTypeName name="com.mygdx.game.ManyBallsRain"/>
+<fullyQualifiedTypeName name="com.mygdx.game.BallCristal"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.Sprite"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.utils.viewport.ScreenViewport"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.files.FileHandle"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.BodyDef"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.FixtureDef"/>
+<fullyQualifiedTypeName name="java.awt.TextArea"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.Texture"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Gdx"/>
+<fullyQualifiedTypeName name="javax.xml.crypto.dsig.SignatureProperties"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.math.Vector2"/>
+<fullyQualifiedTypeName name="com.mygdx.game.Ball"/>
+<fullyQualifiedTypeName name="com.mygdx.game.BallType"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.Body"/>
 </qualifiedTypeNameHistroy>
