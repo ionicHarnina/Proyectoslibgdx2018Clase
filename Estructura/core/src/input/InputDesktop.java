@@ -7,8 +7,12 @@ import com.badlogic.gdx.Input.Keys;
 import com.badlogic.gdx.InputAdapter;
 import com.badlogic.gdx.scenes.scene2d.Actor;
 
+import interfaces.Observable;
+import interfaces.Observador;
 
-public class InputDesktop extends InputAdapter {
+
+public class InputDesktop extends InputAdapter implements Observable{
+	private ArrayList<Observador> observadores = new ArrayList<Observador>();
 
 	private boolean ctrl = false;
 
@@ -70,6 +74,26 @@ public class InputDesktop extends InputAdapter {
 		if (keycode == Keys.CONTROL_LEFT) {
 			ctrl = true;
 		}
+	}
+
+	@Override
+	public void addObserver(Observador observador) {
+		observadores.add(observador);
+		
+	}
+
+	@Override
+	public void removeObserver(Observador observador) {
+		observadores.remove(observador);
+		
+	}
+
+	@Override
+	public void notifyObservers() {
+		for (Observador observador : observadores) {
+			observador.update();
+		}
+		
 	}
 
 	
