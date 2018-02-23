@@ -2,16 +2,17 @@
 <section name="Workbench">
 	<section name="ExternalProjectImportWizard">
 		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
-		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Poyectoslibgdx2018\Varios"/>
+			<item value="C:\Proyectoslibgdx2018Clase"/>
 			<item value="C:\Proyectoslibgdx2018Clase\roca"/>
 			<item value="C:\Proyectoslibgdx2018Clase\ManyBalls"/>
 			<item value="C:\Proyectoslibgdx2018Clase\03 FisicasUno"/>
 			<item value="C:\Proyectoslibgdx2018Clase\02 Escenario"/>
 			<item value="C:\Proyectoslibgdx2018Clase\01 Acciones"/>
 			<item value="C:\Proyectoslibgdx2018Clase\catorce"/>
-			<item value="C:\Proyectoslibgdx2018Clase"/>
 			<item value="C:\Proyectoslibgdx2018Clase\Uno"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">

@@ -7,31 +7,25 @@ import interfaces.Colisionable;
 import interfaces.Direccionable;
 import interfaces.Elemento;
 
-public class MyActor extends Actor implements Colisionable,Elemento{
-	//Que cosas necesitamos para crear un actor
-	/*
-	 * imagen
-	 * body
-	 * 
-	 */
+public class ActorPasota extends Actor implements Colisionable,Elemento {
 	Body body;
 
-	public MyActor() {
+	public ActorPasota() {
 		super();
 		body.setUserData(this);
 	}
 
-	
 	@Override
 	public void colisiona() {
 		// TODO Auto-generated method stub
 		
 	}
 
-
 	@Override
 	public boolean isColisionable() {
 		return true;
 	}
+
+	
 	
 }
